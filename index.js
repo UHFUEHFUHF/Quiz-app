@@ -148,4 +148,4 @@ function endQuiz() {
     
 }
 
-startQuiz();
+document.addEventListener("DOMContentLoaded",startQuiz)
